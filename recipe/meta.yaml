@@ -59,9 +59,8 @@ test:
 
 app:
   entry: notolog
-  icon: notolog/assets/notolog-logo.png
+  icon: notolog-logo.png
   summary: Notolog - Python Markdown Editor
-  own_environment: True
 
 about:
   home: https://notolog.com
