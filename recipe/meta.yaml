@@ -31,7 +31,7 @@ requirements:
     - Markdown >=3.7
     - packaging >=24.0
     - pluggy >=1.5.0
-    - pycparser >=3.0
+    - pycparser >=2.22
     - Pygments >=2.18.0
     - PySide6 >=6.8.0.2
     - qasync >=0.27.1
